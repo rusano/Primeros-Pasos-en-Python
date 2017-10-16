@@ -136,6 +136,7 @@ test_function("matplotlib.pyplot.show")
 success_msg("Great work!")
 ```
 
+---
 ## Video Exercise Title
 
 ```yaml
@@ -144,6 +145,7 @@ lang: python
 aspect_ratio: 62.5
 xp: 50
 skills: 1
+key: c90df818e1
 ```
 
 `@video_link`
