@@ -135,3 +135,16 @@ test_function("matplotlib.pyplot.show")
 
 success_msg("Great work!")
 ```
+
+## Video Exercise Title
+
+```yaml
+type: VideoExercise
+lang: python
+aspect_ratio: 62.5
+xp: 50
+skills: 1
+```
+
+`@video_link`
+//player.vimeo.com/video/238490821
