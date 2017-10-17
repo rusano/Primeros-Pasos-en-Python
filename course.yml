@@ -1,6 +1,8 @@
-title                : Primeros Pasos en Python
-description          : Curso básico de Python con el que comenzar a andar.
-university           : DataCamp
-difficulty_level     : 2
-time_needed          : 1 hour
-programming_language : python
+title: Primeros Pasos en Python
+description: Curso básico de Python con el que comenzar a andar.
+university: DataCamp
+difficulty_level: 2
+time_needed: 1 hour
+programming_language: python
+datasets:
+  author_image.png: Author image
