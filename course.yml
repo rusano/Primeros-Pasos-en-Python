@@ -4,5 +4,3 @@ university: DataCamp
 difficulty_level: 2
 time_needed: 1 hour
 programming_language: python
-datasets:
-  author_image.png: Author image
